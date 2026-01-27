@@ -2,8 +2,7 @@
 
 I'm a Software Engineer 👋 
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ysaito06&theme=gruvbox&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ysaito06&theme=onedark"/>
 
 ---
 
