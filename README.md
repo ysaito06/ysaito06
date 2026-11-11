@@ -2,7 +2,7 @@
 
 I'm a Software Engineer 👋 
 
-  <img src="https://github-profile-trophy-topaz-sigma.vercel.app/?username=ysaito06&theme=onedark"/>
+  <img src="https://github-profile-trophy-topaz-sigma.vercel.app/?username=ysaito06&theme=onedark&rank=SSS,SS,S,SECRET&title=-Stars,-Followers,-Experience&column=-1"/>
 
 ---
 
